@@ -1,1 +1,1 @@
-Scala Exercises
+Scala Exercises 1
